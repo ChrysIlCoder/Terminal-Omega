@@ -14,4 +14,4 @@ The terminal supports only a limited amount of commands, as this is the ██-S
 The Random SCP api uses the open-source github repository [Scp API](https://github.com/scp-data/scp-api).
 For more information, consults the [Docs](https://github.com/scp-data/scp-api/tree/main/docs)
 
-_Created by Christian Boffa for the Omega Contest in Summer 2023_
+_- Created by Christian Boffa for the Omega Contest in Summer 2023_
